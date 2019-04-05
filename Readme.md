@@ -17,4 +17,6 @@ COBC BondReader.cob
 ```
 5. Profit?
 
+Note: Try a different language if you want to do this at home. Writing CoBOL is like coding in Assembly while you can be using Python. Abstraction is pretty much impossible and the syntax is painful, but this was a fun challenge for myself.
+
 ## mk
